@@ -1,0 +1,1 @@
+{"name":"Local: min","url":"d:\\phitron\\introductionToProgramming\\module_6\\min.c","tests":[{"id":1791814026395,"input":"5\n1 8 5 7 5","output":"1"},{"id":1791814077167,"input":"3\n-10 -5 -20","output":"-20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\phitron\\introductionToProgramming\\module_6\\min.c","group":"local","local":true}
